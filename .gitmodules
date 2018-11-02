@@ -1,0 +1,3 @@
+[submodule "synthetic-image-generation"]
+	path = synthetic-image-generation
+	url = https://github.com/mathemusician/synthetic-image-generation.git
